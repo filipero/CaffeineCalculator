@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caffeine Calculator</string>
+    <string-array name="CaffeinatedDrinks">
+        <item>Black Tea</item>
+        <item>Green Tea</item>
+        <item>Coffee</item>
+        <item>Ice Coffee</item>
+        <item>Espresso</item>
+        <item>Cappucino</item>
+    </string-array>
+</resources>
